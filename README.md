@@ -50,7 +50,7 @@ All components are housed in a compact, two-part 3D-printed case. The parts are 
 
 ## Preview
 
-*(Insert images or animations of the finished project here)*
+![Smart Switch](images/Image 1.png)
 
 ## License
 
