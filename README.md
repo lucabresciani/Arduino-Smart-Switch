@@ -33,7 +33,7 @@ All components are housed in a compact, two-part 3D-printed case. The parts are 
 - README.md → Project documentation
 - LICENSE → Open-source license (e.g., MIT)
 
-## 🧑‍🔧 Assembly Instructions
+## Assembly Instructions
 
 1. Print the top and bottom parts of the enclosure (PLA recommended).
 2. Heat-set 4 M3 brass threaded inserts into the bottom part using a soldering iron.
